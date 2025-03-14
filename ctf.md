@@ -1,4 +1,6 @@
 # ctf
+add ip in /etc/host
+ip name.thm
 
 rustscan -r 1-65535 -a ip
 
